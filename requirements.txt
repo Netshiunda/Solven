@@ -116,7 +116,6 @@ Pygments==2.6.1
 pymessenger==0.0.7.0
 PyMsgBox==1.0.9
 pyngrok==5.0.1
-pyodbc===4.0.0-unsupported
 pyparsing==2.4.7
 pyperclip==1.8.1
 pyreadline==2.1
