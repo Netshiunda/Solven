@@ -21,7 +21,6 @@ chardet==3.0.4
 Choco==1.0.5
 chromedriver==2.24.1
 click==7.1.2
-clyent==1.2.2
 colorama==0.4.3
 comtypes==1.1.7
 contextlib2==0.6.0.post1
