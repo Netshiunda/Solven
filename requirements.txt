@@ -10,10 +10,8 @@ backcall==0.2.0
 backports.shutil-get-terminal-size==1.0.0
 bcrypt==3.1.7
 beautifulsoup4==4.9.1
-bitarray @ file:///C:/ci/bitarray_1594751093906/work
 bkcharts==0.2
 bleach==3.1.5
-bokeh @ file:///C:/ci/bokeh_1593178781838/work
 boto==2.49.0
 Bottleneck==1.3.2
 brotlipy==0.7.0
@@ -23,7 +21,6 @@ chardet==3.0.4
 Choco==1.0.5
 chromedriver==2.24.1
 click==7.1.2
-cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1594141588948/work
 clyent==1.2.2
 colorama==0.4.3
 comtypes==1.1.7
@@ -31,13 +28,9 @@ contextlib2==0.6.0.post1
 cryptography==2.9.2
 cssselect==1.1.0
 cycler==0.10.0
-Cython @ file:///C:/ci/cython_1594829190914/work
 cytoolz==0.10.1
-dask @ file:///tmp/build/80754af9/dask-core_1594156306305/work
 decorator==4.4.2
 defusedxml==0.6.0
-diff-match-patch @ file:///tmp/build/80754af9/diff-match-patch_1594828741838/work
-distributed @ file:///C:/ci/distributed_1594742844291/work
 docutils==0.16
 entrypoints==0.3
 et-xmlfile==1.0.1
@@ -51,47 +44,32 @@ flake8==3.8.3
 Flask==0.12.2
 fsspec==0.7.4
 future==0.18.2
-gevent @ file:///C:/ci/gevent_1593005471151/work
 glob2==0.7
 gmpy2==2.0.8
 greenlet==0.4.16
 gunicorn==19.6.0
 h5py==2.10.0
 HeapDict==1.0.1
-html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
-idna @ file:///tmp/build/80754af9/idna_1593446292537/work
-imageio @ file:///tmp/build/80754af9/imageio_1594161405741/work
 imagesize==1.2.0
-importlib-metadata @ file:///C:/ci/importlib-metadata_1593446511143/work
-intervaltree @ file:///tmp/build/80754af9/intervaltree_1594361675072/work
-ipykernel @ file:///C:/ci/ipykernel_1594745408489/work/dist/ipykernel-5.3.2-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1593447482397/work
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
 isort==4.3.21
 itsdangerous==1.1.0
 jdcal==1.4.1
-jedi @ file:///C:/ci/jedi_1592833825077/work
 jieba3k==0.35.1
 Jinja2==2.11.2
-joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
 json5==0.9.5
 jsonschema==3.2.0
 jupyter==1.0.0
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
 jupyter-console==6.1.0
 jupyter-core==4.6.3
 jupyterlab==2.1.5
-jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
-keyring @ file:///C:/ci/keyring_1593109799227/work
 kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
 libarchive-c==2.9
 llvmlite==0.33.0+1.g022ab0f
 locket==0.2.0
-lxml @ file:///C:/ci/lxml_1594822774489/work
 MarkupSafe==1.1.1
-matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
 mccabe==0.6.1
 menuinst==1.4.16
 mistune==0.8.4
@@ -108,20 +86,15 @@ msgpack-rpc-python==0.4.1
 multipledispatch==0.6.0
 nbconvert==5.6.1
 nbformat==5.0.7
-networkx @ file:///tmp/build/80754af9/networkx_1594377231366/work
 newspaper3k==0.2.8
-nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
 nose==1.3.7
 notebook==6.0.3
 numba==0.50.1
 numexpr==2.7.1
 numpy==1.18.5
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1594166760263/work
 olefile==0.46
-openpyxl @ file:///tmp/build/80754af9/openpyxl_1594167385094/work
 packaging==20.4
 paho-mqtt==1.5.1
-pandas @ file:///C:/ci/pandas_1592833613419/work
 pandocfilters==1.4.2
 paramiko==2.7.1
 parso==0.7.0
