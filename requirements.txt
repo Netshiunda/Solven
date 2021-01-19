@@ -141,7 +141,6 @@ rope==0.17.0
 ruamel-yaml==0.15.87
 scikit-image==0.16.2
 seaborn==0.10.1
-selenium==3.141.0
 sip==4.19.13
 six==1.15.0
 snowballstemmer==2.0.0
