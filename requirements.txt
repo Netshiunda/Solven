@@ -138,7 +138,6 @@ QtPy==1.9.0
 requests-file==1.5.1
 requests-toolbelt==0.9.1
 rope==0.17.0
-Rtree==0.9.4
 ruamel-yaml==0.15.87
 scikit-image==0.16.2
 scikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
