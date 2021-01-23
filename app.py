@@ -1,5 +1,6 @@
 #Python libraries that we need to import for our bot
 import random
+import os
 from flask import Flask, request
 from pymessenger.bot import Bot
 from newspaper import Article
@@ -25,8 +26,8 @@ text = article_text
 sentence_list = nltk.sent_tokenize(text) # list of sentences
 
 app = Flask(__name__)
-ACCESS_TOKEN = 'EAADaoWkVeTkBAEevZAojZBvwiUEPNRIytpNbMCPs69ZCfUWlwNbVkvgOgYwEBdobrhe7VQHtyj5ZA3iCslkvqs5LfTzV8rv44UNPMutUiuahJZB8sksiMoFMFCG0ok2O1mMplbFsO03ZAxHqarvR0cIVZBXu7KUuCcZBS2pK41zuz1KOhrbZB4SnD'
-VERIFY_TOKEN = 'TESTINGTOKEN'
+ACCESS_TOKEN =  os.environ['ACCESS_TOKEN']
+VERIFY_TOKEN = os.environ['VERIFY_TOKEN']
 bot = Bot(ACCESS_TOKEN)
 
 # Exit list
